@@ -2,7 +2,7 @@ import random
 import os
 
 
-words = {"game","born","corn","morning","loan","name","monster","lover","clover","nilote","beach","mower}
+words = {"game","born","corn","morning","loan","name","monster","lover","clover","nilote","beach","mower"}
 word = random.choice(list(words))
 
 os.system("cls")
