@@ -1,9 +1,6 @@
 # BEGINNER-PYTHON-PROJECTS
 This repository contains a collection of beginner-level Python projects
 
-BEGINNER PYTHON PROJECTS
-=========================
-
 Author: Joseph
 
 Description:
